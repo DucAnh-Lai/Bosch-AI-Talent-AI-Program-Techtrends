@@ -3,7 +3,8 @@
 
 
 FROM python:3.8
-WORKDIR ./project/techtrends
+WORKDIR ./Bosch-AI-Talent-AI-Program-Techtrends
+/techtrends
 LABEL maintainer="DucAnhLai"
 ADD . /app
 
