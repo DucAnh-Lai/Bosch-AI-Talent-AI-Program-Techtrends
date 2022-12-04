@@ -1,0 +1,10 @@
+apiVersion: v1
+name: techtrends
+description: techtrends using kubernetes/helm
+keywords:
+  - python
+  - techtrends 
+version: 1.0.0
+maintainers:
+  - name: Duc Anh Lai
+  - email: kt.ducanh2112@gmail.com
